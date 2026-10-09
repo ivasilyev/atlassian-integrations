@@ -1,0 +1,8 @@
+[Jira]
+base_url = https://jira.example.com/
+auth_url = https://jira.example.com/rest/auth/1/session
+username = "User"
+password = "password"
+
+[Zephyr]
+base_url = https://jira.example.com/rest/atm/1.0

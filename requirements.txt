@@ -1,0 +1,4 @@
+atlassian-python-api
+jsonpath-ng
+pydantic
+zephyr-python-api

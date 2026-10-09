@@ -1,0 +1,5 @@
+ENCODING_UTF8 = "utf-8"
+
+ATLASSIAN_CONFIG_FILE = "config.ini"
+ZEPHYR_TEST_RUN_KEY = ""
+ZEPHYR_SYNC = False
